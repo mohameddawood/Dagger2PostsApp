@@ -1,5 +1,7 @@
 # Dagger2PostsApp
 
+Kotlin language
+
 1- A Complete app in Kotlin
 
 2- Dagger 2
@@ -9,6 +11,8 @@
 4- RxJava and LiveData
 
 5- NavGraph
+
+6- Retrofit
 
 ## Overview
 
