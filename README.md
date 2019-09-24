@@ -1,4 +1,4 @@
-# FriendlyChat
+# Dagger2PostsApp
 
 1- A Complete app in Kotlin
 
