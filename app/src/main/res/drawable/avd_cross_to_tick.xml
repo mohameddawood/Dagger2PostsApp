@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:drawable="@drawable/ic_cross"
+    tools:targetApi="lollipop">
+
+    <target
+        android:name="@string/cross"
+        android:animation="@animator/cross_to_tick" />
+
+    <target
+        android:name="@string/groupTickCross"
+        android:animation="@animator/rotate_cross_to_tick" />
+
+</animated-vector>

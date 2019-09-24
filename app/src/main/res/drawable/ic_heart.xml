@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:width="@dimen/di"
+    android:height="280dp"
+    android:viewportWidth="56"
+    android:viewportHeight="56"
+    tools:ignore="VectorRaster">
+
+    <path
+        android:name="empty"
+        android:pathData="@string/heart_empty_path"
+        android:fillColor="#999" />
+
+    <clip-path
+        android:name="clip"
+        android:pathData="@string/heart_clip_hidden" />
+
+    <path
+        android:name="full"
+        android:pathData="@string/heart_full_path"
+        android:fillColor="#999" />
+
+</vector>
