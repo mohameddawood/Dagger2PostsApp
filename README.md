@@ -15,7 +15,7 @@ Kotlin language
 6- Retrofit
 
 ## Overview
-
+(note that the app is documented so u can learn)
 This app contains three Screens and drawer
 
 One For Loign
