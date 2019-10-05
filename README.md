@@ -1,4 +1,4 @@
-<img src="Screenshot%20from%202019-09-24%2023-43-04.png" width="150px" height="300"/>
+<img src="Screenshot%20from%202019-09-24%2023-43-04.png" width="150px" height="300"/> <img src="Screenshot%20from%202019-09-24%2023-42-37.png" width="150px" height="300"/>
 # Dagger2PostsApp
 
 Kotlin language
