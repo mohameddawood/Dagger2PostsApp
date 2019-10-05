@@ -1,3 +1,4 @@
+![](Screenshot%20from%202019-09-24%2023-43-04.png)
 # Dagger2PostsApp
 
 Kotlin language
